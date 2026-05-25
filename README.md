@@ -10,9 +10,11 @@ I build bite-size, follow-along projects to help others learn the Power Platform
 Projects, guides, and walkthroughs aligned to specific Microsoft certifications.
 
 - [PL-400: Power Platform Developer](https://github.com/HeatherAmi/certifications-pl400)
-- PL-200: Power Platform Functional Consultant (coming soon)
-- PL-900: Power Platform Fundamentals (coming soon)
-- Applied Skills assessments (coming soon)
+- [PL-200: Power Platform Functional Consultant](https://github.com/HeatherAmi/certifications-pl200)
+- [PL-900: Power Platform Fundamentals](https://github.com/HeatherAmi/certifications-pl900)
+- [AZ-900: Microsoft Azure Fundamentals](https://github.com/HeatherAmi/certifications-az900)
+- [Applied Skills assessments](https://github.com/HeatherAmi/certifications-applied-skills)
+
 
 ### Foundations
 One-time setup content that the certification and training repos build on top of.
@@ -20,13 +22,15 @@ One-time setup content that the certification and training repos build on top of
 - [Foundation Setup: Tenant, Entra ID, Environments, Tooling](https://github.com/HeatherAmi/foundation-setup)
 
 ### Training Days
-Full-day workshop content for live and recorded delivery (coming soon).
+Full-day workshop content for live and recorded delivery.
 
-- Dataverse in a Day
-- Canvas App in a Day
-- Model-Driven App in a Day
-- Power Automate in a Day
-- Security in a Day
+- [Training Days repo](https://github.com/HeatherAmi/training-days)
+  - Dataverse in a Day
+  - Canvas Apps in a Day
+  - Model-Driven Apps in a Day
+  - Power Automate in a Day
+  - Security in a Day
+
 
 ## YouTube
 
