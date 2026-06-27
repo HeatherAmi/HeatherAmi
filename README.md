@@ -40,6 +40,9 @@ Projects, study notes, and walkthroughs aligned to specific Microsoft certificat
 | PL-900 Power Platform Fundamentals | [certifications-pl900](https://github.com/HeatherAmi/certifications-pl900) | Planned |
 | AZ-900 Microsoft Azure Fundamentals | [certifications-az900](https://github.com/HeatherAmi/certifications-az900) | Planned |
 | Microsoft Applied Skills | [certifications-applied-skills](https://github.com/HeatherAmi/certifications-applied-skills) | Planned |
+| AI-900 Azure AI Fundamentals | [certifications-ai900](https://github.com/HeatherAmi/certifications-ai900)         | Planned     |
+| AI-102 Azure AI Engineer Associate | [certifications-ai102](https://github.com/HeatherAmi/certifications-ai102)  | Planned     |
+| MCT Journey (AB-730 / AB-731)  | [mct-journey](https://github.com/HeatherAmi/mct-journey)                     | In progress |
 
 ### Foundations
 
@@ -82,6 +85,7 @@ Full-day workshop content for live and recorded delivery.
 - Building the PL-400 project series, project by project
 - Recording bite-size YouTube videos to accompany each project
 - Setting up the foundation-setup repo as a reusable starting point
+- Working toward MCT — documenting the AB-730 and onboarding journey in the mct-journey repo
 
 ---
 
