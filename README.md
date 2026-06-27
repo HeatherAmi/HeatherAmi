@@ -2,7 +2,7 @@
 
 # Heather Ami Digital
 
-### Microsoft Certified Trainer | Dynamics Developer
+### Dynamics Developer · Aspiring MCT
 
 From NHS midwife to Dynamics developer. Building bite-size Power Platform content to help others learn, certify, and switch into tech.
 
@@ -17,11 +17,13 @@ From NHS midwife to Dynamics developer. Building bite-size Power Platform conten
 
 ## About me
 
-I spent nearly 10 years as an NHS midwife before switching careers into tech. Today I work as a Dynamics Developer with the Microsoft Power Platform, and I am a Microsoft Certified Trainer.
+I spent nearly 10 years as an NHS midwife before switching careers into tech. Today I work as a Dynamics Developer with the Microsoft Power Platform, and I'm working toward becoming a Microsoft Certified Trainer.
 
-I am also a technical and interview coach with Code First Girls, supporting women through career switches and job applications. Day to day, I mentor apprentices, support citizen developers, and deliver Power Platform training ranging from one-hour sessions to full-day courses.
+I'm also a technical and interview coach with Code First Girls, supporting women through career switches and job applications. Day to day, I mentor apprentices, support citizen developers, and deliver Power Platform training ranging from one-hour sessions to full-day courses.
 
 Everything I publish here is designed to be practical, repeatable, and free for the community to use.
+
+Follow along as I work toward AB-730 and MCT - everything I build along the way is free to use here.
 
 ---
 
